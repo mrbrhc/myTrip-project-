@@ -12,4 +12,4 @@
 
 ### Purpose: To hike and sight-see various locations in Colorado national parks.
 
-[Link to Repository](https://github.com/mrbrhc/myTrip-project-.git)
+

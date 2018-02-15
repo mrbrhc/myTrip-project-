@@ -15,6 +15,8 @@
 
 [Itinerary](https://github.com/mrbrhc/myTrip-project-/blob/master/Itinerary.md)
 
-[Hotel](https://github.com/mrbrhc/myTrip-project-/blob/master/Hotel.md)
+[Hotel Plan](https://github.com/mrbrhc/myTrip-project-/blob/master/Hotel.md)
 
-[Campsite](https://github.com/mrbrhc/myTrip-project-/blob/master/Campsite.md)
+[Campsite Plan](https://github.com/mrbrhc/myTrip-project-/blob/master/Campsite.md)
+
+[Budget Plan](https://github.com/mrbrhc/myTrip-project-/blob/master/Budget.md)

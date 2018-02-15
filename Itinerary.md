@@ -1,7 +1,7 @@
+[Back to README](https://github.com/mrbrhc/myTrip-project-/blob/master/README.md)
+
 * Trip Start: July 14, 2018
 * Trip End: July 21, 2018
-
-[Back to README](https://github.com/mrbrhc/myTrip-project-/blob/master/README.md)
 
 |Date|Event|Description|
 |----|-----|-----------|

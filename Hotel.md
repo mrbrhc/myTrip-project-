@@ -1,3 +1,5 @@
+[Back to README](https://github.com/mrbrhc/myTrip-project-/blob/master/README.md)
+
 # Hotel
 
 ## JC Suites
@@ -8,3 +10,5 @@
 |Room Type|Quantity|Price|
 |---------|--------|-----|
 |2x Queen|2 (3 per room)|$86/rm/night|
+
+[Back to README](https://github.com/mrbrhc/myTrip-project-/blob/master/README.md)

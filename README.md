@@ -13,3 +13,4 @@
 ### Purpose: To hike and sight-see various locations in Colorado national parks.
 
 
+[Itinerary](https://github.com/mrbrhc/myTrip-project-/blob/master/Itinerary.md)

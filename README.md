@@ -20,3 +20,5 @@
 [Campsite Plan](https://github.com/mrbrhc/myTrip-project-/blob/master/Campsite.md)
 
 [Budget Plan](https://github.com/mrbrhc/myTrip-project-/blob/master/Budget.md)
+
+[Hiking Gear](https://github.com/mrbrhc/myTrip-project-/blob/master/HikingGear.md)

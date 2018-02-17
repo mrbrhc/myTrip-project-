@@ -8,8 +8,7 @@
 |6|Rain Poncho|$66.00|   
 |3|Light Backpack|$30.00|   
 |6|Water Bottle|$49.39|  
- 
-  TOTAL         $441.97
+|  |   TOTAL   |      $441.97
                          
                        
 

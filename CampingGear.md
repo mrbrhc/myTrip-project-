@@ -4,7 +4,7 @@
 
 |Item|Quanity|Cost Per Unit|Total Cost|
 |----|-----------|--------------|------------|
-|Four Person Tent|1|$240|$240|
+|Four Person Tent|1|$199.00|$199.00|
 |Sleeping Bag|6|$71.73|$430.38|
 |Sleeping Pad|4|$29.95|$119.80
 |Blankets|6|$0 (Bring from home)|$0 (Bring from home)|
@@ -16,10 +16,10 @@
 |Water Filter|6|$19.95|$119.97|
 |Firestarter|6|$7.95|$47.70|
 |Campfire Grill|1|$29.95|$29.95|
-| | ||$1193.76 Total spent|
+| | ||$1152.76 Total spent|
 
 ### Online Shopping Links
-* https://www.amazon.com/Mountainsmith-Morrison-Person-Season-Citron/dp/B00452C2IC/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=cleve05e-20&linkId=06dd316b098688f013c1284df4046bc0
+* https://www.rei.com/product/893998/rei-co-op-camp-dome-4-tent
 
 * https://www.rei.com/rei-garage/product/129242/kelty-tuck-20-sleeping-bag-regular?cm_mmc=aff_AL-_-34947-_-46631-_-NA&avad=46631_e1112c321&CA_6C15C=120217890004370363
 

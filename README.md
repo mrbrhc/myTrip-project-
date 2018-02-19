@@ -24,3 +24,5 @@
 [Hiking Gear](https://github.com/mrbrhc/myTrip-project-/blob/master/HikingGear.md)
 
 [Camping Gear](https://github.com/mrbrhc/myTrip-project-/blob/master/CampingGear.md)
+
+[Food List](https://github.com/mrbrhc/myTrip-project-/blob/master/FoodList.md)

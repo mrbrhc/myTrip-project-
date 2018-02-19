@@ -7,7 +7,7 @@
 |----|-----------|--------------|------------|
 |Plane Tickets|6 tickets round-trip|$1400|   |
 |Campsite|Reserve multiple campsites for 6 days|$150|$118|
-|Hotel|Book 2 rooms for 1 night|$100|$172|
+|Hotel|Book 2 rooms for 1 night|$100|$189.90|
 |Rental car|Rent car for whole week|$500|$537|
 |Food|Buy food for whole week|$500| |
 |Camping Equipment|Buy camping gear|$1500|$1152.76 |

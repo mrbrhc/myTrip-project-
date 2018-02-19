@@ -7,7 +7,7 @@
 |----|-----|-----------|
 |7-14-18|Flight to Colorado|link to tickets|
 |7-14-18|Pick up rental car|rent van for a week|
-|7-14-18|Check into hotel|hotel link|
+|7-14-18|Check into hotel|[hotel link](http://www.jcsuites.com/room-rates)|
 |7-15-18|Great Sand Dunes|camping|
 |7-16-18|Curecanti|camping |
 |7-17-18|Black Canyon|camping|

@@ -1,11 +1,11 @@
-Breakfast 
+Breakfast: 
   granola
   cereal
   oatmeal and raisins
   pancake mix( just add water)
   maple syrup
   
- Lunch
+ Lunch:
   crackers
   bagels
   pita bread
@@ -21,13 +21,13 @@ Breakfast
   peanut butter
   jam
   
-Dinner
+Dinner:
   pasta
   canned pasta sauce
   jar of pesto
   potatoes
   
-Drinks
+Drinks:
   juice
   coffee
   tea
@@ -35,7 +35,7 @@ Drinks
   bottled lemon or lime juice (to add to water)
   water
 
-Items in cooler
+Items in cooler:
   eggs
   bacon
   hot dogs 

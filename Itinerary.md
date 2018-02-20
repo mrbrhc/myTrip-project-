@@ -28,4 +28,6 @@
 5. Curecanti National Recreation Area
 6. Colorado National Monument
 
+![Map of Trip](assets/tripMap.PNG)
+
 [Back to README](README.md)

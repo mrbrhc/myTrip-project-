@@ -1,4 +1,4 @@
-[Back to README](https://github.com/mrbrhc/myTrip-project-/blob/master.README.md)
+[Back to README](README.md)
 
 # Camping Gear
 
@@ -38,4 +38,4 @@
 [Grill Link]: https://www.rei.com/product/111931/camp-chef-lumberjack-over-fire-grill-16x24
 
 
-[Back to README](https://github.com/mrbrhc/myTrip-project-/blob/master.README.md)
+[Back to README](README.md)

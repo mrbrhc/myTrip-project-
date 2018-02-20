@@ -13,16 +13,18 @@
 ### Purpose: To hike and sight-see various locations in Colorado national parks.
 
 
-[Itinerary](https://github.com/mrbrhc/myTrip-project-/blob/master/Itinerary.md)
+[Itinerary](Itinerary.md)
 
-[Hotel Plan](https://github.com/mrbrhc/myTrip-project-/blob/master/Hotel.md)
+[Attractions and Hikes](Attractions.md)
 
-[Campsite Plan](https://github.com/mrbrhc/myTrip-project-/blob/master/Campsite.md)
+[Hotel Plan](Hotel.md)
 
-[Budget Plan](https://github.com/mrbrhc/myTrip-project-/blob/master/Budget.md)
+[Campsite Plan](Campsite.md)
 
-[Hiking Gear](https://github.com/mrbrhc/myTrip-project-/blob/master/HikingGear.md)
+[Budget Plan](Budget.md)
 
-[Camping Gear](https://github.com/mrbrhc/myTrip-project-/blob/master/CampingGear.md)
+[Hiking Gear](HikingGear.md)
 
-[Food List](https://github.com/mrbrhc/myTrip-project-/blob/master/FoodList.md)
+[Camping Gear](CampingGear.md)
+
+[Food List](FoodList.md)

@@ -1,4 +1,4 @@
-[Back to README](https://github.com/mrbrhc/myTrip-project-/blob/master/README.md)
+[Back to README](README.md)
 
 | Num | Item | Price
 |-----|------|------|
@@ -26,4 +26,4 @@
 [Binoculars Link]: https://www.amazon.com/8x21-Compact-Lightweight-Binoculars-Watching/dp/B071Z2WHPR/ref=sr_1_3?s=sporting-goods&ie=UTF8&qid=1519026377&sr=1-3&keywords=hiking+binoculars&dpID=41yNx4NdZgL&preST=_SY300_QL70_&dpSrc=srch
 [Sunscreen Link]: http://www.cabelas.com/product/Sawyer-Stay-Put-Sunscreen-System-SPF/1396401.uts?productVariantId=3177778&WT.tsrc=PPC&WT.mc_id=GoogleProductAds&WT.z_mc_id1=03464476&rid=20&ds_rl=1252079&gclid=Cj0KCQiA5aTUBRC2ARIsAPoPJk86MnHrbtCCcDBn2iBZ3_pbgNGw0Hnyz8EpuzJcDqCGKkuBjLkfxRsaAmr_EALw_wcB&gclsrc=aw.ds
 
-[Back to README](https://github.com/mrbrhc/myTrip-project-/blob/master/README.md)
+[Back to README](README.md)

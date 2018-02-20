@@ -1,4 +1,4 @@
-[Back to README](https://github.com/mrbrhc/myTrip-project-/blob/master/README.md)
+[Back to README](README.md)
 
 ## Breakfast: 
   * granola
@@ -51,5 +51,5 @@
   
   For these items and the quantity we would have to get to last an entire week, I have found that it would cost around $350.00 including tax.
   
-  [Back to README](https://github.com/mrbrhc/myTrip-project-/blob/master/README.md)
+[Back to README](README.md)
   

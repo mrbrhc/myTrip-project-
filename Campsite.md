@@ -1,4 +1,4 @@
-[Back to README](https://github.com/mrbrhc/myTrip-project-/blob/master/README.md)
+[Back to README](README.md)
 
 # Campsite Plan
 |Park|Campsite|Cost|
@@ -11,4 +11,4 @@
 |Rocky Mountain|[Longs Peak](https://www.nps.gov/romo/planyourvisit/lpcg.htm)|$26|
 
 
-[Back to README](https://github.com/mrbrhc/myTrip-project-/blob/master/README.md)
+[Back to README](README.md)

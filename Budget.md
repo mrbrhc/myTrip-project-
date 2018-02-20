@@ -1,4 +1,4 @@
-[Back to README](https://github.com/mrbrhc/myTrip-project-/blob/master/README.md)
+[Back to README](README.md)
 
 # Budget and Expenses
 * Total Budget: $6000
@@ -16,4 +16,4 @@
 |Additional Expenses|Gas, emergencies, etc.|$700| |
 | | |$6000|$total spent|
 
-[Back to README](https://github.com/mrbrhc/myTrip-project-/blob/master/README.md)
+[Back to README](README.md)

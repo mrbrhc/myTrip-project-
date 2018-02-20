@@ -1,4 +1,4 @@
-[Back to README](https://github.com/mrbrhc/myTrip-project-/blob/master/README.md)
+[Back to README](README.md)
 
 * Trip Start: July 14, 2018
 * Trip End: July 21, 2018
@@ -28,4 +28,4 @@
 5. Curecanti National Recreation Area
 6. Colorado National Monument
 
-[Back to README](https://github.com/mrbrhc/myTrip-project-/blob/master/README.md)
+[Back to README](README.md)

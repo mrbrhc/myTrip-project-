@@ -1,4 +1,4 @@
-[Back to README](https://github.com/mrbrhc/myTrip-project-/blob/master/README.md)
+[Back to README](README.md)
 
 # Hotel
 
@@ -12,4 +12,4 @@ A mile from Interstate 70, this modest roadside hotel is half a mile from the Ar
 |2x Queen|2 (3 per room)|$94.95/rm/night|
 | |Total Cost|$189.90|
 
-[Back to README](https://github.com/mrbrhc/myTrip-project-/blob/master/README.md)
+[Back to README](README.md)
